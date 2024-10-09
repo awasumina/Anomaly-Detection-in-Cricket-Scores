@@ -1,39 +1,9 @@
-Here's a sample README file for your anomaly detection project using Isolation Forest in Python. You can modify it according to your specific needs:
-
----
-
 # Anomaly Detection in Cricket Scores
 
 ## Project Overview
 
 This project demonstrates how to detect anomalies in cricket scores using the Isolation Forest algorithm from the Scikit-learn library. The dataset includes scores from various overs, and the goal is to identify unusual score values that could indicate anomalies.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Description](#data-description)
-- [Model Implementation](#model-implementation)
-- [Visualization](#visualization)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-Make sure you have Python installed, and then install the required libraries:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
-```
-
-For running this project in Google Colab, no installation is necessary as the required libraries are pre-installed.
-
-## Usage
-
-1. Clone the repository or download the project files.
-2. Run the provided Python script in your preferred environment (e.g., Jupyter Notebook, Google Colab).
-3. The script will generate random cricket scores, apply the Isolation Forest algorithm, and visualize the results.
 
 ## Data Description
 
@@ -86,14 +56,3 @@ min        1.000000
 max       79.000000
 ```
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, please feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize sections, add more details about your analysis, or include screenshots of the visualizations if needed!
